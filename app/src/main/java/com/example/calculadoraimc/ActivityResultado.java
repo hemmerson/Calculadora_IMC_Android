@@ -26,7 +26,7 @@ public class ActivityResultado extends AppCompatActivity {
             double imc = intent.getDoubleExtra("imc",0);
             textViewNome.setText(intent.getStringExtra("nome"));
             if (imc > 25.0){
-                textViewIMC.setTextColor(R.color.orange);
+                textViewIMC.setTextColor(getResources().getColor(R.color.orange, null));
             }
             else {
                 textViewIMC.setTextColor(R.color.blue);
