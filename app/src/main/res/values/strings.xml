@@ -6,4 +6,10 @@
     <string name="digite_sua_altura">Digite sua altura (EX: 1.90):</string>
     <string name="calcular">Calcular</string>
     <string name="seu_imc">Seu IMC é:</string>
+    <string name="abaixo_do_peso">Abaixo do peso</string>
+    <string name="peso_normal">Normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obeso_I">Obesidade grau I</string>
+    <string name="obeso_II">Obesidade grau II</string>
+    <string name="obeso_III">Obesidade grau III</string>
 </resources>
